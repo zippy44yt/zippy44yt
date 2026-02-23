@@ -39,13 +39,13 @@ Por favor, envíame los nombres de los proyectos que quieras destacar, junto con
 ---
 
 ## 📫 Conéctate conmigo
-(Proporciona tus enlaces y los listaré aquí como iconos/botones.)
-- Sitio web:
-- Email:
-- LinkedIn:
-- Twitter/X:
-- YouTube:
-- CV / Resumé:
+## (Proporciona tus enlaces y los listaré aquí como iconos/botones.)
+## - Sitio web:
+## - Email: 
+## - LinkedIn:
+## - Twitter/X:
+## - YouTube:
+## - CV / Resumé:
 
 [![](https://visitcount.itsvg.in/api?id=zippy44yt&icon=0&color=4)](https://visitcount.itsvg.in)
 
