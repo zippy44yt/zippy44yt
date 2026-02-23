@@ -21,9 +21,9 @@ Bienvenido a mi GitHub — un espacio para código, experimentos y los proyectos
 
 ## 🚀 Proyectos destacados
 Por favor, envíame los nombres de los proyectos que quieras destacar, junto con una breve descripción y el enlace; los convertiré en tarjetas pulidas.
-- Project 1 — Short description & link
-- Project 2 — Short description & link
-- Project 3 — Short description & link
+- Pokedex  Es una pokedex en flutter resposive utilizado api pokemon.https://github.com/zippy44yt/PokedexFlutterPau 
+- InstaDan Es un proyecto de flutter donde recreo mi propia version de instagram usando Firebase en Flutter.
+  https://github.com/zippy44yt/instadam
 
 ## 📊 Estadísticas de GitHub
 ![](https://github-readme-stats.vercel.app/api?username=zippy44yt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -37,15 +37,6 @@ Por favor, envíame los nombres de los proyectos que quieras destacar, junto con
 ![](https://github-contributor-stats.vercel.app/api?username=zippy44yt&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-
-## 📫 Conéctate conmigo
-## (Proporciona tus enlaces y los listaré aquí como iconos/botones.)
-## - Sitio web:
-## - Email: 
-## - LinkedIn:
-## - Twitter/X:
-## - YouTube:
-## - CV / Resumé:
 
 [![](https://visitcount.itsvg.in/api?id=zippy44yt&icon=0&color=4)](https://visitcount.itsvg.in)
 
