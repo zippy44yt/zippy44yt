@@ -31,6 +31,3 @@ Por favor, envíame los nombres de los proyectos que quieras destacar, junto con
 ### ✍️ Frase aleatoria para desarrolladores
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Repositorio con más contribuciones
-![](https://github-contributor-stats.vercel.app/api?username=zippy44yt&limit=5&theme=radical&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=zippy44yt&icon=0&color=4)](https://visitcount.itsvg.in)
